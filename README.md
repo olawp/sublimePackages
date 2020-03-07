@@ -1,5 +1,5 @@
 # Backup of my Sublime packages and settings.
-Pull and put into the Sublime user folder. If PackageControl is installed it should set up everything for you. You might get some errors from the Ayu theme, but it should be simple enough to fix.
+Pull/clone/download and put into the Sublime user folder. If PackageControl is installed it should set up everything for you. You might get some errors from the Ayu theme, but it should be simple enough to fix.
 
 
 ## WIP
