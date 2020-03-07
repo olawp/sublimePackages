@@ -10,12 +10,15 @@
 		"BracketHighlighter",
 		"HighlightWords",
 		"HTML-CSS-JS Prettify",
+		"MarkdownLivePreview",
 		"Material Theme",
 		"Package Control",
+		"PackageResourceViewer",
 		"PackageSync",
 		"PlainTasks",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"Sync Settings",
 		"TrailingSpaces"
 	]
 }

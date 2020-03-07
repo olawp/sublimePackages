@@ -20,7 +20,9 @@
 	"permanent_highlight_keyword_color_mappings": [
 		//{"keyword": "TODO", "color": "support.function"},
 		//{"keyword": "FIXIT .*", "color": "support.function", "flag": 2},
-		{"keyword": "// TODO:", "color":"source.js meta.function.declaration.js storage.type.function.js"}
+		{"keyword": "//TODO:", "color":"source.js meta.function.js meta.block.js meta.conditional.js meta.block.js meta.switch.js keyword.control.switch.js", "flag": 3}
+	
 	]
 
 }
+
